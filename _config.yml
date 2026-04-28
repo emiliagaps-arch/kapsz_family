@@ -52,7 +52,7 @@ metadata-csv: full_metadata_kapsz_family
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
